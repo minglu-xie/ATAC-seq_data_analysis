@@ -1,0 +1,2 @@
+*.r linguist-language=R
+*.sh linguist-language=Shell
